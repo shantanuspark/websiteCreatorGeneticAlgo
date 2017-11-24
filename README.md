@@ -17,5 +17,5 @@ Asks user to select the 2 websites he liked the most
 Creates new 3 websites depending on the user input
 
 Output:
-Below is the sample output for Flash website
+Below is the sample output for The Flash text file.<br /> <br />
 <img src="https://github.com/shantanuspark/websiteCreatorGeneticAlgo/blob/master/output_website.png" />
